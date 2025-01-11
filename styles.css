@@ -11,7 +11,6 @@ body {
   .cardsGrid {
     display: grid;
     max-width: 900px;
-    /*grid-template-columns: 80px 80px 80px 80px;*/
     grid-template-rows: 80px 80px 80px 80px; 
     column-gap: 10px;
     row-gap: 10px;
